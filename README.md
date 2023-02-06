@@ -19,10 +19,11 @@ At the moment, the Bot can take user input in the form of YouTube links and save
 ## Installation & Hosting
 
 1. Create a new Telegram Bot using the @Botfather chat
-2. Copy the generated Bot API Key and save it in the config.py
-3. Save the files on the device or server where you want to run the Bot (this can be easily run on platforms like PythonAnywhere or Heroku)
-4. Install the dependency using `pip install pyTelegramBotAPI`
-5. Run the Bot with `python telebot.py`
+2. Change the privacy settings for the bot so it can react to YouTube links without the /. Use /mybots and select your Bot > Bot Settings > Group Privacy > Turn off
+3. Copy the generated Bot API Key and save it in the config.py
+4. Save the files on the device or server where you want to run the Bot (this can be easily run on platforms like PythonAnywhere or Heroku)
+5. Install the dependency using `pip install pyTelegramBotAPI`
+6. Run the Bot with `python telebot.py`
 
 
 ## Future features
