@@ -23,7 +23,7 @@ At the moment, the Bot can take user input in the form of YouTube links and save
 3. Copy the generated Bot API Key and save it in the config.py
 4. Save the files on the device or server where you want to run the Bot (this can be easily run on platforms like PythonAnywhere or Heroku)
 5. Install the dependency using `pip install pyTelegramBotAPI`
-6. Run the Bot with `python telebot.py`
+6. Run the Bot with `python teletube.py`
 
 
 ## Future features
